@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <!-- Category name for attractions [CHAR LIMIT=20] -->
+    <string name="category_attractions">Top Attractions</string>
+
+    <!-- Category name for the vocabulary words for restaurants[CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Category name for the vocabulary words for public places [CHAR LIMIT=20] -->
+    <string name="category_public_places">Public Places</string>
+
+    <!-- Category name for the vocabulary words for events [CHAR LIMIT=20] -->
+    <string name="category_events">Events</string>
+    <!-- strings inside restaurants fragment -->
+    <string name="comice">comice</string>
+    <string name="comice_address">31.avenue.de.versailles.75016.paris.france</string>
+    <string name="lastrance">l.astrance</string>
+    <string name="lastrance_addr">4.rue.beethoven.paris.lle.de.france</string>
+    <string name="hugoco">hugoco</string>
+    <string name="hugoco_addr">34.36.rue.la.perouse.75116.paris.france</string>
+    <string name="au_petit_tonneau">au.petit.tonneau</string>
+    <string name="au_petit_addr">20.rue.surcouf.75007.paris.france</string>
+    <string name="restaurant_david">restaurant.david.toutain</string>
+    <string name="restaurant_david_addr">29.rue.surcouf.paris.lle.de.france</string>
+    <string name="larpege">l.arpege</string>
+    <string name="larpege_addr">84.rue.de.varenne.paris.lle.de.france </string>
+    <string name="veal_sweet_breads">vealsweetbreads.at.le.grand.restaurant</string>
+    <string name="veal_sweet_breads_addr">7.rue.d.aguesseau.paris.lle.de.france</string>
+    <string name="josephine">josephinechezdumonet</string>
+    <string name="josephine_addr">117.rue.du.cherche.midi.paris.lle.de.france</string>
+    <string name="lassiette">lassiette</string>
+    <string name="lassiette_addr">181.rue.du.chateau.75014.paris.france</string>
+    <string name="lesevero">le.severo</string>
+    <string name="lesevero_addr">8.rue.des.plantes.paris.lle.de.france</string>
+
+    <!-- strings inside attractions fragment-->
+    <string name="louvre_place">louvre.museum</string>
+    <string name="louvre_addr">162.rue.de.rivoli.75001.paris.at.the.left.of.the.foreign.exchange.counter</string>
+    <string name="la_tour_eiffel">la.tour.eiffel</string>
+    <string name="la_tour_eiffel_addr">champ.de.mars.5.avenue.anatole.france.75007.paris.france </string>
+    <string name="notre_dame">notre.dame</string>
+    <string name="notre_dame_addr">6.parvis.notre.dame.pl.jean.paul11.75004.paris.france</string>
+    <string name="arc_de_triomphe">arc.de.triomphe</string>
+    <string name="arc_de_triomphe_addr">place.charles.de.gaulle.75008.paris.france</string>
+    <string name="pere_lachaise">pere.lachaise</string>
+    <string name="pere_lachaise_addr">16.rue.durepos.75020.paris.france</string>
+    <string name="sainte_chapelle">sainte.chapelle</string>
+    <string name="sainte_chapelle_addr">8.boulevard.du.palais.75001.paris.france</string>
+    <string name="palais_garnier">palais.garnier</string>
+    <string name="palais_garnier_addr">8.rue.scribe.75009.paris.france</string>
+    <string name="les_invalides">les.invalides</string>
+    <string name="les_invalides_addr">rond.point.du.bleuet.de.france.75007.paris.france</string>
+    <string name="chateau_de_chenonceaux">chateau.de.chenonceaux</string>
+    <string name="chateau_de_chenonceaux_addr">37150.chenonceaux.france</string>
+    <string name="basilique_du_sacre">basilique.du.sacre.coeur</string>
+    <string name="basilique_du_sacre_addr">
+        35.rue.du.chevalier.dela.barre.75018.paris.france
+    </string>
+    <!-- strings inside events fragment-->
+   <string name="paris_saint_germain">paris.saint.germain.v.rebbes</string>
+    <string name="paris_saint_germain_addr">le.parc.des.princes</string>
+    <string name="billet_musee">billet.musee.et.expositions</string>
+    <string name="billet_musee_addr">the.centre.pompidou</string>
+    <string name="meeting_de_paris">meeting.de.paris.ondoor.2019</string>
+    <string name="meeting_de_paris_addr">accor.hotel.arena</string>
+    <string name="deaf_parade">deaf.parade</string>
+    <string name="deaf_parade_addr">super.sonic</string>
+    <string name="grand_prix_d_amerique">grand.prix.d.amerique.2019.at.vincennes</string>
+    <string name="grand_prix_d_amerique_addr">hippodrome.de.paris</string>
+    <string name="architects">architects</string>
+    <string name="architects_addr">l.olympia.bruno.coquatrix</string>
+    <string name="i_love_the_gos">i.love.the.gos</string>
+    <string name="i_love_the_gos_addr"> paris</string>
+    <string name="dub_station">dub.station</string>
+    <string name="dub_station_addr">trabendo</string>
+    <string name="chicago_paris">chicago.paris.tickets</string>
+    <string name="chicago_paris_addr">theatremogador</string>
+    <string name="liam_finn">liam.finn</string>
+    <string name="liam_finn_addr">cafe.dela.danse</string>
+    <!-- strings inside public places fragment-->
+    <string name="tuileries">tuileries</string>
+    <string name="tuileries_addr">113.rue.de.rivoli.75001.paris.france</string>
+    <string name="hotel_de_ville">hotel.de.ville</string>
+    <string name="hotel_de_ville_addr">paris.france</string>
+    <string name="ponts_des_arts">pont.des.arts</string>
+    <string name="ponts_des_arts_addr">pont.des.arts.75006.paris.france</string>
+    <string name="luxembourg_gardens">luxembourg.gardens</string>
+    <string name="luxembourg_gardens_addr">75006.paris.france</string>
+    <string name="place_des_vosges">place.des.vosges</string>
+    <string name="place_des_vosges_addr">75004.paris.france</string>
+    <string name="champ_de_mars">champ.de.mars</string>
+    <string name="champ_de_mars_addr">2allee.adrienne.lecouvreur.75007.paris.france</string>
+    <string name="square_du_vert_galant">square.du.vert.galant</string>
+    <string name="square_du_vert_galant_addr"> 15.place.du.pont.neuf.75001.paris.france</string>
+    <string name="canal_saint">along.canal.saint.martin</string>
+    <string name="canal_saint_addr">is.just.east.of.gare.del.est.in.10th.arround.dissement</string>
+    <string name="parc_des_buttes">parc.des.buttes.chaumont</string>
+    <string name="parc_des_buttes_addr">1.rue.botzaris.75019.paris.france</string>
+    <string name="promenade_plantee">promenade.plantee</string>
+    <string name="promenade_plantee_addr">1.coulee.verte.rene.dumont.75012.paris.france</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
